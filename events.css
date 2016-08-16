@@ -1,0 +1,31 @@
+.text-section {
+	content: "You clicked on the {text of the section} section";
+}
+.h1-mouseover {
+	content: "You moved your mouse over the header";
+}
+.h1-mouseout {
+	content: "You left me!!";
+}
+.guineaPigColor {
+	color: blue;
+}
+.guineaPigSize {
+	font-size: 3em;
+}
+.guineaPigBorder {
+	border: solid 5px black;
+}
+.guineaPigRound {
+	border-radius: 2em;
+}
+
+.article-section:first-of-type {
+	font-weight: bold;
+}
+.article-section:last-of-type {
+	font-style: italic;
+}
+button {
+	display: block;
+}
