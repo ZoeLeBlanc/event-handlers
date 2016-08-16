@@ -59,30 +59,7 @@ document.getElementById("add-rounding").addEventListener("click",
 		guineaPig.classList = "";
 		guineaPig.classList.add("guineaPigBorder", "guineaPigRound");
 	});
-/*
-function clickSection (event) {
-	outputTarget += outputTarget.classList.add("text-section") + event;
-	console.log(event);
-}
 
-sectionClicked.addEventListener("click", function(event) {
-	
-	//outputTarget.classList.add("text-section");}
-	}
-}, false);
-
-
-for (var i = 0; i < sectionClicked.length; i++) {
-  		sectionClicked.item(i).addEventListener("click", function () {
-  			outputTarget[i].classList.add("text-section");
-  			}
-  		);
- }
-
-function handleSectionClick (event) {
-  console.log(event);
-}
-*/
 
 
 
